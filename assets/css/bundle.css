@@ -58,7 +58,7 @@ body {
 }
 
 #cover-image img{
-  height: 550px;
+  width: 100%;
 }
 
 #about-us {
