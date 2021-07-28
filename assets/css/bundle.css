@@ -339,3 +339,9 @@ h3 {
 .venue-info a:hover {
   text-decoration: underline;
 }
+
+#gd-logo {
+  height: 100%;
+  width: 100%;
+  max-width: 450px;
+}
